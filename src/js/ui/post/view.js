@@ -2,6 +2,7 @@ import { getPostByIdAPI, getPostsAPI } from "/src/js/api/post/read.js";
 import { onDeletePost } from "/src/js/ui/post/delete.js";
 import {updatePost} from "./update.js";
 import {API_BASE, API_KEY} from "../../api/constants.js";
+
 const btnClear = document.getElementById("btnClear");
 const likeEmoji = "👍"; // Only the like emoji
 let allPosts = [];
