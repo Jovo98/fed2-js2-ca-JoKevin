@@ -5,25 +5,27 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Post Feed</title>
+    <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="/src/css/style.css" />
     <script type="module" src="/src/app.js"></script>
   </head>
 
   <body>
     <div class="container">
-      <h1>Post Feed</h1>
+      <div class="logout"><button id="btnClear"><a href="/index.html">Logout</a></button></div>
+      <h1 class="post-title">Post Feed</h1>
+
       <div id="filter-search" class="filter-search">
         <input type="text" id="searchInput" placeholder="Search posts..." />
         <select id="filterSelect">
           <option value="">Filter by Tag</option>
         </select>
+        <button id=""><a href="/post/create/">Post</a></button>
         <button id="searchButton">Search</button>
       </div>
       <div id="postFeed" class="post-feed"></div>
     </div>
 
-
-    <script src="https://cdn.tailwindcss.com"></script>
     <script type="module">
 
       import { getPosts, viewPost } from '/src/js/ui/post/view.js';
