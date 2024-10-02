@@ -8,7 +8,6 @@ Jo and Kevins Course Assignment for Javascript
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
  
 ## About
@@ -24,8 +23,6 @@ This project presents a client-side social media application that allows users t
 - Emoji/Like reactions for posts to enhance engagement.
  
 ## Installation
-
-- Fork from repository.
  
 ### Requirements
  
@@ -35,7 +32,11 @@ This project presents a client-side social media application that allows users t
  
 ### Steps
  
-1. [Step 1]
+### Steps
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
 2. [Step 2]
 3. [Step 3]
  
