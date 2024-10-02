@@ -29,7 +29,7 @@ This project presents a client-side social media application that allows users t
  
 ### Requirements
  
-- [About](#[node.js](https://nodejs.org/en))
+- [About](https://nodejs.org/en)
 - [Features](#features)
 - [Installation](#installation)
  
