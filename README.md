@@ -29,9 +29,9 @@ This project presents a client-side social media application that allows users t
  
 ### Requirements
  
-- [About](https://nodejs.org/en)
-- [Features](#features)
-- [Installation](#installation)
+- [Node.js](https://nodejs.org/en) (Version 12 or higher)
+- [npm](https://www.npmjs.com/) (Node package manager)
+- [Vite](https://vite.dev/) (for development server and build tool)
  
 ### Steps
  
@@ -41,5 +41,11 @@ This project presents a client-side social media application that allows users t
  
 ## Usage
  
-[Provide examples or guidelines on how to use the project.]
+- Create a new user account or log in to an existing one.
+- Use the navigation to create, read, update, or delete posts.
+- Comment on posts and react using emoji reactions.
+
+## License
+
+This project is licensed under the [MIT License.]
  
