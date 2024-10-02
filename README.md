@@ -1,6 +1,8 @@
 # Javascript2 CA
  
 Jo and Kevins Course Assignment for Javascript
+
+Link to live site: [Sosialen](https://fed2-js2-ca-jo-kevin.vercel.app/)
  
 ## Table of Contents
  
