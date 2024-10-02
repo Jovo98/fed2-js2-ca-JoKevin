@@ -17,15 +17,21 @@ This project presents a client-side social media application that allows users t
  
 ## Features
  
-HTML, CSS, Javascript.
+- Built with HTML,CSS and Javascript.
+- CRUD operations for managing posts.
+- User authentication for secure access.
+- Commenting system for user interactions.
+- Emoji/Like reactions for posts to enhance engagement.
  
 ## Installation
- 
-[Provide step-by-step instructions on how to install and set up the project.]
+
+- Fork from repository.
  
 ### Requirements
  
-- [List any prerequisites or requirements for running the project.]
+- [About](#[node.js](https://nodejs.org/en))
+- [Features](#features)
+- [Installation](#installation)
  
 ### Steps
  
