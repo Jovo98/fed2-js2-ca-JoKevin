@@ -31,12 +31,10 @@ This project presents a client-side social media application that allows users t
 - [Vite](https://vite.dev/) (for development server and build tool)
  
 ### Steps
- 
-### Steps
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/Jovo98/fed2-js2-ca-JoKevin)
+   git clone https://github.com/Jovo98/fed2-js2-ca-JoKevin.git
    cd fed2-js2-ca-JoKevin
 2. **Install dependencies:**
    ```bash
